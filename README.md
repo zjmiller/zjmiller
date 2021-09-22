@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 **thinking about**
-- [ ] 🚀 developer tools
-- [ ] 🤺 tools for high _agency_
-- [ ] 🏝 easy wins for _well-being_
+- [ ] 🚀 eth, nfts, daos, defi
 
 **previously**
 - [x] 🦦 eng @ [ought](https://ought.org/)
