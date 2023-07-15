@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**thinking about**
-- [ ] 🚀 eth, nfts, daos, defi
-
 **previously**
 - [x] 🦦 eng @ [ought](https://ought.org/)
 - [x] 🎙 eng @ [getvokl](https://about.getvokl.com/)
@@ -23,6 +20,6 @@ Here are some ideas to get you started:
 - [x]  🎓 philosphy phd @ [rutgers](https://philosophy.rutgers.edu/)
 
 **misc**
-- 🍼 parenting: ages 5, 7, 9
+- 🍼 parenting: ages 7, 9, 11
 - 🤖 effective altruism
 - 🚲 car-free life & 🏘 car-free cities 
