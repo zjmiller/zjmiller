@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 - [x]  🎓 philosphy phd @ [rutgers](https://philosophy.rutgers.edu/)
 
 **misc**
-- 🍼 parenting: ages 7, 9, 11
-- 🤖 effective altruism
+- 🍼 parenting: ages 8, 10, 12
 - 🚲 car-free life & 🏘 car-free cities 
